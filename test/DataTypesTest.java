@@ -23,3 +23,4 @@ public class DataTypesTest {
         assertEquals(x, DataTypes.sum(numbers), "sum from 1 to 1 million should be " + x);
     }
 }
+
